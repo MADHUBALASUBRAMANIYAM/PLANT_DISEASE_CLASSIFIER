@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+#streamlit
+#streamlit-option-menu
+flask
+flask-cors
+scikit-learn
+gunicorn
+tensorflow
