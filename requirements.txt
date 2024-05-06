@@ -7,3 +7,4 @@ flask-cors
 scikit-learn
 gunicorn
 tensorflow
+PIL
