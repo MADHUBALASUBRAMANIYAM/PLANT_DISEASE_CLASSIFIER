@@ -6,6 +6,6 @@ flask
 flask-cors
 scikit-learn
 gunicorn
-tensorflow
 Python
+tensorflow==2.7.0
 Pillow
